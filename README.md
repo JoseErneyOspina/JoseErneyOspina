@@ -39,11 +39,14 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript
+- 🌟 &nbsp; Material UI | Andtdesign | Bootstrap
+- 🏮 &nbsp; React | Angular
 - 💻 &nbsp; Python | Bash
-- 🌐 &nbsp; HTML | CSS | JavaScript
 - 📰 &nbsp; Adobe XD | Axure RP | Figma | Adobe Suite | illustrator 
 - 🔧 &nbsp; Visual Studio Code | Github | CodeSandbox
-- 🛢  &nbsp; MySQL
+- 🛢 &nbsp; MySQL
+- 🦾 &nbsp; SCRUM | BEM | Mobile-first | Atomic Design
 - 🤖 &nbsp; discord.js
 - ☁ &nbsp; Atlassian | AWS
 
