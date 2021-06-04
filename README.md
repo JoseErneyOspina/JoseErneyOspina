@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 - 💚 &nbsp; Web UI Developer at Globant.
-- 😎 &nbsp; Graphic Designer with a focus on UX UI and Frontend Developer.
+- 😎 &nbsp; Frontend Developer and Graphic Designer with a focus on UX UI.
 - 💙 &nbsp; Love Design and Programming.
 
 <h3>🛠 Tech Stack</h3>
