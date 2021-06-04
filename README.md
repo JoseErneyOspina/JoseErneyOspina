@@ -4,10 +4,10 @@
   <img align="left" alt="Jose Erney Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/JoseErneyOspina">
-  <img align="left" alt="Jose Erney Ospiba | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Jose Erney Ospina | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joseerneyospina">
-  <img align="left" alt="Jose's LinkedIn" width="21px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622849367~hmac=7b00ae053a070ab32bebdd0966d91524" />
+  <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
 <br />
