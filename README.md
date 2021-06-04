@@ -6,7 +6,7 @@
 <a href="https://twitter.com/JoseErneyOspina">
   <img align="left" alt="Jose Erney Ospiba | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joseerneyospina/">
+<a href="https://www.linkedin.com/in/joseerneyospina">
   <img align="left" alt="Jose's LinkedIn" width="21px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622849367~hmac=7b00ae053a070ab32bebdd0966d91524" />
 </a>
 
@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 </br>
 </p>
 
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
+<h3 align="left"> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@Miguel22247](https://github.com/JoseErneyOspina)
+⭐️ From [@JoseErneyOspina](https://github.com/JoseErneyOspina)
