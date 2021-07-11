@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=JoseOsp&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jose's github stats" />
 </br>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOspa&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOsp&layout=compact&theme=material-palenight" />
 </br>
 </p>
 
