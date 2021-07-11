@@ -1,4 +1,4 @@
-### Hi there, I'm Jose Erney! 👋
+### Hi there, nice to meet you, my name is Jose! 👋
 
 <a href="https://codesandbox.io/u/JoseOsp">
   <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
