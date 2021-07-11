@@ -1,12 +1,12 @@
 ### Hi there, I'm Jose Erney! 👋
 
-<a href="https://codesandbox.io/u/JoseErneyOspina">
-  <img align="left" alt="Jose Erney Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/JoseOsp">
+  <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/JoseErneyOspina">
-  <img align="left" alt="Jose Erney Ospina | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/Jose0sp">
+  <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joseerneyospina">
+<a href="https://www.linkedin.com/in/JoseOsp">
   <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
@@ -63,13 +63,13 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseErneyOspina&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jose's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseOsp&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jose's github stats" />
 </br>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseErneyOspina&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOspa&layout=compact&theme=material-palenight" />
 </br>
 </p>
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@JoseErneyOspina](https://github.com/JoseErneyOspina)
+⭐️ From [@JoseOsp](https://github.com/JoseOsp)
