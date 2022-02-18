@@ -63,17 +63,14 @@ Here are some ideas to get you started:
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 <p align="center">
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseOsp&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jose's github stats" />
+  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 </br>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseOsp&layout=compact&theme=material-palenight" />
-</br>
-</p>
-<div class="w-full md:w-8/12 justify-center flex flex-col flex-wrap md:my-4">
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
   <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eydrent&amp;theme=radical&amp;hide_border=false" alt="">
-  <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
-</div>
+</br>
+ <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+ </br>
+</p>
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
