@@ -1,9 +1,9 @@
 ### Hi there, nice to meet you, my name is Jose! 👋
 
-<a href="https://codesandbox.io/u/JoseOsp">
+<a href="https://codesandbox.io/u/Eydrent">
   <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/Jose0sp">
+<a href="https://twitter.com/eydrent">
   <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/JoseOsp">
@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML  |  CSS  |  SASS  |  JavaScript
+- 🌐 &nbsp; HTML  |  CSS  |  SASS
 - 🌟 &nbsp; Material UI  | Antdesign  |  Bootstrap
-- 🏮 &nbsp; React  |  Angular
-- 💻 &nbsp; Python  |  Bash
+- 🏮 &nbsp; React  |  Flutter
+- 💻 &nbsp; JavaScript  |  TypeScript  |  Dart  |  Python  |  Bash
 - 📰 &nbsp; Adobe XD  |  Axure RP  |  Figma  |  Adobe Suite  |  illustrator 
-- 🔧 &nbsp; Visual Studio Code  |  Github  |  CodeSandbox
-- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; WebStorm  |  IntelliJ IDEA  |  VSCode |  Git  |  Git Flow  |  Github  |  CodeSandbox
+- 🛢 &nbsp; MondoDB
 - 🦾 &nbsp; SCRUM  |  BEM  |  Mobile-first  |  Atomic Design
-- 🤖 &nbsp; discord.js
-- ☁ &nbsp; Atlassian  |  AWS
+- 🤖 &nbsp; Slack  |  Discord
+- ☁ &nbsp; Atlassian  |  AWS  |  Firebase
 
 **Languages and Tools:**  
 
@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
-⭐️ From [@JoseOsp](https://github.com/JoseOsp)
+⭐️ From [@Eydrent](https://github.com/eydrent)
