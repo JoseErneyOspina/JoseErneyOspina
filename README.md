@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 </br>
 <br>
   <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eydrent&amp;theme=radical&amp;hide_border=false" alt="">
-</br>
+ </br>
+<br>
  <img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eydrent&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
  </br>
 </p>
