@@ -1,14 +1,26 @@
-### Hi there, nice to meet you, my name is Jose! 👋
+# Hi there 👋
+### Nice to meet you, my name is Jose! 👋
 
-<a href="https://codesandbox.io/u/Eydrent">
-  <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/eydrent">
-  <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/JoseOsp">
-  <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
+<div align="left">
+  <a href="https://codesandbox.io/u/Eydrent">
+    <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  </a>
+  <a href="https://twitter.com/eydrent">
+    <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/JoseOsp">
+    <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+  </a>
+
+   <a href="https://api.daily.dev/get?r=Eydrent" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/eydrent/eydrent/devcard/devcard.svg"
+    />
+  </a>
+  
+</div>
 
 <br />
 <br />
@@ -70,3 +82,5 @@ Here are some ideas to get you started:
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
 ⭐️ From [@Eydrent](https://github.com/eydrent)
+
+![Metrics](https://raw.githubusercontent.com/eydrent/eydrent/github-metrics/github-metrics.svg)
