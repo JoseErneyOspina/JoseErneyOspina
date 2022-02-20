@@ -1,14 +1,14 @@
 # Hi there 👋
-### Nice to meet you, my name is Jose! 👋
+### Nice to meet you, my name is Jose!
 
 <div align="left">
-  <a href="https://codesandbox.io/u/Eydrent">
+  <a href="https://codesandbox.io/u/Eydrent" target="_blank">
     <img align="left" alt="Jose Ospina | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
-  <a href="https://twitter.com/eydrent">
+  <a href="https://twitter.com/eydrent" target="_blank">
     <img align="left" alt="Jose Osp | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/JoseOsp">
+  <a href="https://www.linkedin.com/in/JoseOsp" target="_blank">
     <img align="left" alt="Jose's LinkedIn" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
   </a>
 
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - 😎 &nbsp; Frontend Developer and Graphic Designer with a focus on UX UI.
 - 💙 &nbsp; Love Design and Programming.
 
+![Metrics](https://raw.githubusercontent.com/eydrent/eydrent/github-metrics/github-metrics.svg)
+
 <h3>🛠 Tech Stack</h3>
 
 
@@ -82,5 +84,3 @@ Here are some ideas to get you started:
 <h3 align="left"> 🤝🏻 Connect with Me </h3>
 
 ⭐️ From [@Eydrent](https://github.com/eydrent)
-
-![Metrics](https://raw.githubusercontent.com/eydrent/eydrent/github-metrics/github-metrics.svg)
