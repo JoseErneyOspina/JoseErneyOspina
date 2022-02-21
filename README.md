@@ -48,6 +48,25 @@ Here are some ideas to get you started:
 - 😎 &nbsp; Frontend Developer and Graphic Designer with a focus on UX UI.
 - 💙 &nbsp; Love Design and Programming.
 
+```python
+from life import Creativity
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "Frontend Tech Lead"
+        self.open_for_opportunity = True
+    def current_projects(self):
+        self.currently_learning = "Improving Flutter and Dart Development skills 📚"
+        self.currently_working_on = "React - Flutter 🌱"
+        self.excited_for = "IOT 🌎"
+    
+    def contact_me(self):
+        self.email = "JoseErneyOsp@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+```
+
 ![Metrics](https://raw.githubusercontent.com/eydrent/eydrent/github-metrics/github-metrics.svg)
 
 <h3>🛠 Tech Stack</h3>
