@@ -148,7 +148,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2 edited files from 14 commits over last 14 days</small>
+                <small>estimation from 2 edited files from 13 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -256,7 +256,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 539k out of 98m users</span>
+                                    <span class="gh">ranked 540k out of 98m users</span>
                                 </div>
                                 <div class="text">Published 48 public repositories</div>
                             </div>
